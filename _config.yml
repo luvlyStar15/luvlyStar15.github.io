@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dark"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Luvly_Star♥"
+title                    : "Luvly_Star"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Choi In Kyu"
@@ -94,11 +94,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "CHoi In Kyu"
+  name             : "Choi In Kyu"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "PurSuit For Love."
+  bio              : "PurSuit For Love ♥"
   location         : "Suwon"
-  email            :
+  email            : "comcik1118@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
