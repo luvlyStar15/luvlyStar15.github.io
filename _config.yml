@@ -18,9 +18,9 @@ minimal_mistakes_skin    : "contrast"
 locale                   : "en-US"
 title                    : "Luvly_Star"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Developer"# site tagline that appears below site title in masthead
 name                     : "Choi In Kyu"
-description              : "An amazing website."
+description              : "Studying CS."
 url                      : "https://luvlyStar15.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
