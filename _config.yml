@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "Choi In Kyu"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/my_photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "PurSuit For Love ♥"
   location         : "Suwon"
   email            : "comcik1118@naver.com"
